@@ -52,6 +52,6 @@ yarn test
 
 # Prints do projeto
 
-![Create user request](https://github.com/EduardoAlcebiades/desafio-conceitos-node/blob/master/assets/images/create-user.jpg?raw=true)
-![Create todo request](https://github.com/EduardoAlcebiades/desafio-conceitos-node/blob/master/assets/images/create-todo.jpg?raw=true)
-![Tests running](https://github.com/EduardoAlcebiades/desafio-conceitos-node/blob/master/assets/images/tests.jpg?raw=true)
+![Create user request](https://github.com/EduardoAlcebiades/desafio-conceitos-node/blob/main/assets/images/create-user.jpg?raw=true)
+![Create todo request](https://github.com/EduardoAlcebiades/desafio-conceitos-node/blob/main/assets/images/create-todo.jpg?raw=true)
+![Tests running](https://github.com/EduardoAlcebiades/desafio-conceitos-node/blob/main/assets/images/tests.jpg?raw=true)
